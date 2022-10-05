@@ -6,24 +6,19 @@
 
 # MPSMC入服说明
 
-{% btn 服务器交流群:: https://jq.qq.com/?_wv=1027&k=60sqz9fD %}
-{% btn Java版客户端&整合包(提取码:mpsmc):: https://mpcraft.lanzoum.com/b01jpkvvi %}
-
-{% btn 基岩版客户端(请下载1.19.x正式版):: https://klpbbs.com/xz/new/ %}
+服务器交流群https://jq.qq.com/?_wv=1027&k=60sqz9fD
 
 > 服务器交流群：876639402
 > 版本：1.19.2 Java/基岩版
-> 正版验证：有；若无正版账号可以使用{% btn MPSMC Passport:: https://passport.wewq.cc%}进入服务器；基岩版玩家无需另外的Java版账号可直接进入服务器。
+> 正版验证：有；若无正版账号可以使用MPSMC Passport进入服务器；基岩版玩家无需另外的Java版账号可直接进入服务器。
 >
 > 服务器IP:
 >
-> * Java版: mc.wewq.cc
-> * 基岩版: play.wewq.cc 端口: 19132
-> * {% btn 添加服务器(基岩版):: minecraft://?addExternalServer=MPSMC|play.wewq.cc:19132","_blank" %}
+> * Java版: mpsmc.cn
+> * 基岩版: play.mpsmc.cn 端口: 19132
 >
-> 服务器里谁都不认识？来看看{% btn 部落 :: /2022/07/24/MPSMC-Tribe %}吧！
 >
-> **请先** {% btn 申请服务器白名单:: https://docs.qq.com/form/page/DV1ptUkRMWklUdHpI %}
+> **请先**申请服务器白名单https://docs.qq.com/form/page/DV1ptUkRMWklUdHpI
 >
 > **申请白名单后请勿退群，否则你在服务器的白名单将得不到保证！**
 
